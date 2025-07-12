@@ -86,6 +86,7 @@ I'm open to collaborating on:
 
 ![Andres's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresjz&show_icons=true&theme=dark)
 
+![Andres's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisjuarezaa&show_icons=true&theme=dark)
 
 ---
 
